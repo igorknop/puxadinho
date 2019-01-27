@@ -1,7 +1,7 @@
 {
   "main.css": "/puxadinho/static/css/main.74805723.chunk.css",
-  "main.js": "/puxadinho/static/js/main.93e1a16b.chunk.js",
-  "main.js.map": "/puxadinho/static/js/main.93e1a16b.chunk.js.map",
+  "main.js": "/puxadinho/static/js/main.ba6ce81c.chunk.js",
+  "main.js.map": "/puxadinho/static/js/main.ba6ce81c.chunk.js.map",
   "static/js/1.4a34e45d.chunk.js": "/puxadinho/static/js/1.4a34e45d.chunk.js",
   "static/js/1.4a34e45d.chunk.js.map": "/puxadinho/static/js/1.4a34e45d.chunk.js.map",
   "runtime~main.js": "/puxadinho/static/js/runtime~main.a13149ab.js",
@@ -10,6 +10,6 @@
   "static/media/logo.svg": "/puxadinho/static/media/logo.5d5d9eef.svg",
   "static/media/fundo.jpg": "/puxadinho/static/media/fundo.f7d36c2a.jpg",
   "index.html": "/puxadinho/index.html",
-  "precache-manifest.cd0488cc8c3cfc69ac38b91d0221a3c9.js": "/puxadinho/precache-manifest.cd0488cc8c3cfc69ac38b91d0221a3c9.js",
+  "precache-manifest.a95118c13a05b747af1e75a3d094cb3e.js": "/puxadinho/precache-manifest.a95118c13a05b747af1e75a3d094cb3e.js",
   "service-worker.js": "/puxadinho/service-worker.js"
 }

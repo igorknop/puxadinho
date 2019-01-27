@@ -12,19 +12,19 @@ self.__precacheManifest = [
     "url": "/puxadinho/static/js/runtime~main.a13149ab.js"
   },
   {
-    "revision": "93e1a16bec1fafb07704",
-    "url": "/puxadinho/static/js/main.93e1a16b.chunk.js"
+    "revision": "ba6ce81c563140f431a3",
+    "url": "/puxadinho/static/js/main.ba6ce81c.chunk.js"
   },
   {
     "revision": "4a34e45d34cafb7623bd",
     "url": "/puxadinho/static/js/1.4a34e45d.chunk.js"
   },
   {
-    "revision": "93e1a16bec1fafb07704",
+    "revision": "ba6ce81c563140f431a3",
     "url": "/puxadinho/static/css/main.74805723.chunk.css"
   },
   {
-    "revision": "9d3607ec9285d028c41a4ad6a4a90071",
+    "revision": "0baadf191f3f3ab9418b72c1eea00fdf",
     "url": "/puxadinho/index.html"
   }
 ];

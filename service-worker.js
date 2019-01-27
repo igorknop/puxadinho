@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/puxadinho/precache-manifest.cd0488cc8c3cfc69ac38b91d0221a3c9.js"
+  "/puxadinho/precache-manifest.a95118c13a05b747af1e75a3d094cb3e.js"
 );
 
 workbox.clientsClaim();
