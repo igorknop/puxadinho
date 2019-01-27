@@ -32,11 +32,16 @@
 }
 
 .card {
+  padding-top: 1em;
   width: 92mm;
   height: 59mm;
   border: 1px solid black;
   border-radius: 3mm;
   display: table;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-image: url("./fundo.jpg");
+  background-size: 177%;
+  font-variant: small-caps;
 }
 .card table {
   width: 100%;
@@ -60,9 +65,44 @@ table tr:nth-child(2) {
 
 #allCards {
   margin-top: 4cm;
-  transform: scale(0.7);
+  transform: scale(1.0);
   transform-origin: 0 0;
 }
 #allCards .card {
   float: left;
+}
+
+#pontuacao td{
+  text-align: right;
+}
+
+.Quarto {
+  background-color: rgba(255,0,0,0.3);
+}
+.Cozinha {
+  background-color: rgba(0,255,0,0.3);
+}
+.Banheiro {
+  background-color: rgba(0,0,255, 0.3);
+
+}
+.Sala {
+  background-color: rgba(255,255,0,0.5);
+}
+.Garagem {
+  background-color: rgba(255,0,255,0.5);
+}
+.Sofá, .Cama, .Mesa, .Banheira, .Carro, .Fogão, .Geladeira, .TV {
+  background-color: rgba(255,150,0,0.5);
+}
+.Papagaio, .Gato, .Cachorro {
+  background-color: rgba(155,250,150,0.5);
+}
+
+.Corredor {
+  background-color: rgba(50,50,50,0.5);
+}
+
+.Criança, .Adulto {
+  background-color: rgba(255,255,255,0.8);
 }
