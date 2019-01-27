@@ -30,3 +30,30 @@
     transform: rotate(360deg);
   }
 }
+
+#card {
+  width: 92mm;
+  height: 59mm;
+  border: 1px solid black;
+  border-radius: 3mm;
+  display: table;
+}
+#card table {
+  width: 100%;
+  height: 100%;
+}
+.left,
+.right {
+  width: 50%;
+}
+table tr:nth-child(1) {
+  height: 70%;
+}
+table tr:nth-child(2) {
+  height: 30%;
+}
+
+.symbol {
+  border: 1px solid black;
+  margin: auto;
+}
