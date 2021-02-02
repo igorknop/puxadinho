@@ -40,8 +40,9 @@
   display: table;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   background-image: url("./fundo.jpg");
-  background-size: 177%;
+  background-size: 111%;
   font-variant: small-caps;
+  background-position: -8px -11px;
 }
 .card table {
   width: 100%;
